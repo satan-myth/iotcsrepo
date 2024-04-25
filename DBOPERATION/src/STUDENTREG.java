@@ -1,7 +1,7 @@
 import java.awt.EventQueue;
 //vjfhgjkf
 //v,mdhgu
-// kjfhgfbi ohnkljcgbyuv dlibnu;bo bo bo bo bo bo 
+
 //hsgfuyd
 import javax.swing.JFrame;
 
